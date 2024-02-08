@@ -1,2 +1,1 @@
-**Project Tomfoolery is NOT an virus it is indeed an troll as the name tells, if you do download and run it nothing bad will happen**
-**To prove it does nothing bad the sourcecode is here, also the .bat file is unobfuscated so notepad+++ can open it and see sourcecode**
+https://www.virustotal.com/gui/file/c7f09de2ba37d6ecf95722bdc6af9b3cd41168c5ec5d43db7cdf1ba2c89908ed?nocache=1
